@@ -1,1 +1,1 @@
-# internet-safety-game
+# index.html
